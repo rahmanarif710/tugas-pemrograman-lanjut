@@ -1,0 +1,12 @@
+Nama  = Arif Rahman
+Kelas = TIF-H
+NIM   = 155150200111101
+
+Class	   = Mahasiswa
+	     Scanner 
+Main Class = mahasiswaMain
+Objek	   = Tugas
+	     in
+Method	   = isiData (nama,nim,kata)
+	     tampilan
+Atribut	   = nama, nim, kata, jumlahKata, jumlahHalaman = 30, jumlah
